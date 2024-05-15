@@ -1,4 +1,4 @@
-[ https://github.com/amirhossein01r/tahqiq2/blob/main/README.md - ریپوزیتوری قبلی ]
+[ https://github.com/amirhossein01r/tahqiq2/ - ریپوزیتوری قبلی ]
 # tahqiq2
 <h2 dir="rtl">نام و نام خانوادگی: امیرحسین رحیمی بهار</h2>
 <h2 dir="rtl">موضوع: مقایسه oracle, mysql و sqlserver</h2>
