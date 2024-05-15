@@ -1,4 +1,4 @@
-[ https://github.com/amirhossein01r/tahqiq3/ - ریپوزیتوری قبلی ]
+[ https://github.com/amirhossein01r/tahqiq3/ - ریپوزیتوری مربوط ]
 <h2 dir="rtl">نام و نام خانوادگی: امیرحسین رحیمی بهار</h2>
 <h2 dir="rtl">بررسی  Logstash، Caching Server و Data Warehouse</h2>
 <p dir="rtl">
