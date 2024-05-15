@@ -1,4 +1,4 @@
-[ https://github.com/amirhossein01r/tahqiq1/ - ریپوزیتوری قبلی ]
+[ https://github.com/amirhossein01r/tahqiq1/ - ریپوزیتوری مربوط ]
 <h2 dir="rtl">نام و نام خانوادگی: امیرحسین رحیمی بهار</h2>
 <h2 dir="rtl">موضوع: تفاوت sql و nosql</h2>
 <p dir="rtl">
